@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Change Wallpaper - Qtile
+GenericName=Change Wallpaper For Woof's Qtile Config
+Categories=Utility;
+Exec=/usr/bin/woof-change-wall
